@@ -10,11 +10,11 @@ using namespace ariel;
 
 
 TEST_CASE("good snowman"){
-    CHECK(snowman(12114411) == 0);
-    CHECK(snowman(24114411) == 0);
-    CHECK(snowman(31114411) == 0);
-    CHECK(snowman(43114411) == 0);
-    CHECK(snowman(11114411) == 0);
+    CHECK(snowman(12134431) == 0);
+    CHECK(snowman(24114422) == 0);
+    CHECK(snowman(11223344) == 0);
+    CHECK(snowman(23414321) == 0);
+    CHECK(snowman(13244231) == 0);
 }
 
 
