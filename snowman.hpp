@@ -3,5 +3,5 @@
 #include <iostream>
 using namespace std;
 namespace ariel {
-    int snowman(int a);
+    int snowman(int n);
 }
